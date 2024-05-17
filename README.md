@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gani-radiant&label=Profile%20views&color=0e75b6&style=flat" alt="gani-radiant" /> </p>
 <p align="left"> <a href="https://twitter.com/kamireddy_gani" target="blank"><img src="https://img.shields.io/twitter/follow/kamireddy_gani?logo=twitter&style=for-the-badge" alt="kamireddy_gani" /></a> </p>
 
-- 🔭 I’m currently working on **ATM Security Enhancement**
+- 🔭 I’m currently working on **Machine Learning Models**
 
 - 🌱 I’m currently learning **DevOps**
 
